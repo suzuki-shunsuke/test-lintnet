@@ -9,7 +9,7 @@ function(param) {
         'hello.jsonnet',
       ],
       modules: [
-        'github.com/suzuki-shunsuke/example-lintnet-modules/newline.jsonnet@v0.1.1',
+        'github.com/suzuki-shunsuke/example-lintnet-modules/newline.jsonnet@v0.1.2',
       ],
     },
   ],
